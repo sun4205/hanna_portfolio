@@ -1,19 +1,10 @@
 const PortFolio = () => {
     return (
         <div>
-            hello PortFolio
+            hello this is PortFolio
         </div>
     )
 }
 
 export default PortFolio;
 
-const Practice = () => {
-    return (
-        <div>
-            This is practice
-        </div>
-    )
-}
-
-export default Practice;
