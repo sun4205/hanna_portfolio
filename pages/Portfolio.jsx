@@ -1,7 +1,8 @@
 const PortFolio = () => {
     return (
         <div>
-            hello this is PortFolio
+            hello this is PortFolio.
+            I am learing react.
         </div>
     )
 }
