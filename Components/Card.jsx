@@ -3,7 +3,7 @@ const Card = ({name}) => {
     return (
         <>
             <div class="overflow-hidden shadow-lg">
-                <img class="w-full" src="/mountain.jpg" alt="Mountain" />
+                
                 <div class="px-6 py-4">
                     <div class="font-bold text-xl mb-2">{name}</div>
                     <p class="text-gray-700 text-base">
