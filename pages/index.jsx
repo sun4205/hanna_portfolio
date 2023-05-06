@@ -1,4 +1,5 @@
 import Card from '../Components/Card'
+import PortFolio from './Portfolio'
 
 export default function Home() {
   return (
@@ -8,6 +9,9 @@ export default function Home() {
         <Card name="Favorites"/>
         <Card name="Foods"/>
         <Card name="Habits"/>        
+      </div>
+      <div>
+      <PortFolio />
       </div>
     </div>
   )
