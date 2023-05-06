@@ -1,5 +1,6 @@
 import Card from '../Components/Card'
 import {PortFolio} from './Portfolio'
+import Topbor from '@/Components/Topbor'
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       </div>
       <div>
       <PortFolio />
+      <Tobbor />
       </div>
     </div>
   )
