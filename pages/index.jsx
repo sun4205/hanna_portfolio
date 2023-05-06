@@ -1,5 +1,5 @@
 import Card from '../Components/Card'
-import {PortFolio} from './Portfolio'
+import {Portfolio} from './Portfolio'
 import {Topbor} from '@/Components/Topbor'
 
 export default function Home() {
