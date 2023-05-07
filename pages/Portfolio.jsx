@@ -1,4 +1,6 @@
-const PortFolio = () => {
+import '@/styles/globals.css'
+
+const Portfolio = () => {
     return (
         <div>
             Hello this is PortFolio. This is Practice
@@ -7,5 +9,5 @@ const PortFolio = () => {
     )
 }
 
-export default PortFolio;
+export default Portfolio;
 

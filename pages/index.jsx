@@ -1,6 +1,7 @@
 import Card from '../Components/Card'
-import PortFolio from './Portfolio'
+import Portfolio from './Portfolio'
 import Topbor from '@/Components/Topbor'
+import '@/styles/globals.css'
 
 export default function Home() {
   return (
@@ -12,7 +13,7 @@ export default function Home() {
         <Card name="Habits"/>        
       </div>
       <div>
-      <PortFolio />
+      <Portfolio />
       <Topbor />
       </div>
     </div>
