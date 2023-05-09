@@ -1,7 +1,8 @@
 import Card from '../Components/Card'
 import Portfolio from './Portfolio'
 import Topbor from '@/Components/Topbor'
-import '@/styles/globals.css'
+import Portfolio1 from './Portfolio1'
+
 
 export default function Home() {
   return (
@@ -12,10 +13,12 @@ export default function Home() {
         <Card name="Foods"/>
         <Card name="Habits"/>        
       </div>
-      <div>
-      <Portfolio />
-      <Topbor />
+      
+      <div><Portfolio />
+          <Topbor />
+          <Portfolio1 />
       </div>
+      
     </div>
   )
 }
