@@ -2,7 +2,10 @@ const Portfolio1 = () => {
     
     return(
 
-        <div>This is practice of Portfolio</div>
+        <div>
+            <h1 className=" font-bold text-xl bg-blue-200 text-red-500 text-base">
+        This is practice of Portfolio</h1>
+        </div>
     )
 
 }
