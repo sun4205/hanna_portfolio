@@ -14,7 +14,7 @@ export default function Home() {
         <Card name="Foods"/>
         <Card name="Habits"/> 
         
-        
+        ftvgbhnjmk
       </div>
       
       <div><Portfolio />

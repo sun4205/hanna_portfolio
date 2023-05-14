@@ -1,5 +1,3 @@
-import '@/styles/globals.css'
-
 const Topbor = () => {
     return (
         <div>
