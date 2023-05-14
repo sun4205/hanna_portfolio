@@ -19,7 +19,6 @@ export default function Home() {
 
     <div>
       <div class="p-8 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-8">
-      <ToastContainer  position="top-center"/>
         {data.map((obj, index) => {
           return (
             <Card title={obj.title} subTitle={obj.subtTitle} bgColor={obj.bgColor} tags={obj.tags} index={index}/>
@@ -32,6 +31,7 @@ export default function Home() {
         <Card name="Habits" /> */}
 
       </div>
+      <ToastContainer  position="top-center"/>
 
       <div>
         <Portfolio />
