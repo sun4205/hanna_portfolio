@@ -4,7 +4,7 @@ const Portfolio1 = () => {
 
         <div>
             <h1 className=" font-bold text-xl bg-blue-200 text-red-500 text-base">
-        This is prahfhfhfhfhfhctice of Portfolio</h1>
+        It is Portfolio</h1>
         </div>
     )
 
