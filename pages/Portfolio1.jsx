@@ -4,7 +4,7 @@ const Portfolio1 = () => {
 
         <div>
             <h1 className=" font-bold text-xl bg-blue-200 text-red-500 text-base">
-        It is Portfolio</h1>
+        It is Portfolio2</h1>
         </div>
     )
 
