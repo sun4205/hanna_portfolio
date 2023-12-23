@@ -37,6 +37,7 @@ export default function Home() {
         <Portfolio />
         <Topbor />
         <Portfolio1 />
+        <Test />
       </div>
 
     </div>
